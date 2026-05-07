@@ -1,0 +1,121 @@
+venta_id,fecha,pais,ciudad,canal,categoria,metodo_pago,tipo_cliente,unidades,precio_unitario,descuento_pct,ingreso,costo_total,margen,edad_cliente,satisfaccion,dias_entrega,devolucion,segmento_venta
+1,2026-01-09,Perú,Arequipa,Web,Belleza,Tarjeta,Nuevo,3,120000,0.0,360000.0,198000.00000000003,161999.99999999997,22.0,1.0,7.0,No,Venta media
+2,2026-01-29,México,CDMX,WhatsApp,Deportes,Tarjeta,Nuevo,2,180000,0.2,288000.0,129600.0,158400.0,52.0,5.0,7.0,Sí,Venta media
+3,2026-01-13,Colombia,Bogotá,WhatsApp,Ropa,Transferencia,Nuevo,5,55000,0.2,220000.0,121000.00000000001,98999.99999999999,52.0,1.0,4.0,No,Venta media
+4,2026-03-31,Colombia,Cali,App,Deportes,Billetera digital,Recurrente,3,80000,0.2,192000.0,144000.0,48000.0,31.0,3.0,4.0,No,Venta media
+5,2026-02-13,México,CDMX,Tienda física,Deportes,Billetera digital,Recurrente,4,55000,0.2,2800000.0,79200.0,1250000.0,47.0,1.0,7.0,No,Venta grande
+6,2026-02-04,México,Puebla,Web,Belleza,Tarjeta,Recurrente,3,180000,0.1,486000.0,364500.0,121500.0,42.0,5.0,2.0,Sí,Venta media
+7,2026-01-15,Chile,Santiago,Tienda física,Tecnología,Billetera digital,Recurrente,4,180000,0.1,648000.0,291600.0,356400.0,35.0,4.0,3.0,No,Venta grande
+8,2026-02-05,Chile,Santiago,Tienda física,Hogar,Transferencia,Nuevo,4,80000,0.15,272000.0,122400.0,149600.0,42.0,2.0,7.0,No,Venta media
+9,2026-01-02,México,Puebla,Tienda física,Deportes,Billetera digital,Recurrente,4,40000,0.05,152000.0,68400.0,83600.0,25.0,2.0,4.0,No,Venta media
+10,2026-03-25,Chile,Valparaíso,Tienda física,Ropa,Tarjeta,Nuevo,4,120000,0.1,432000.0,280800.0,151200.0,31.0,2.0,4.0,No,Venta media
+11,2026-02-26,Colombia,Barranquilla,WhatsApp,Deportes,Billetera digital,Recurrente,4,25000,0.15,85000.0,63750.0,21250.0,28.0,1.0,2.0,No,Venta pequeña
+12,2026-01-27,México,CDMX,Web,Ropa,Tarjeta,Nuevo,5,40000,0.2,160000.0,72000.0,88000.0,52.0,3.0,1.0,Sí,Venta media
+13,2026-01-19,Chile,Valparaíso,Tienda física,Ropa,Efectivo,Recurrente,1,25000,0.15,21250.0,15937.5,5312.5,42.0,4.0,5.0,Sí,Venta pequeña
+14,2026-02-08,Colombia,Medellín,WhatsApp,Ropa,Transferencia,Nuevo,2,120000,0.1,216000.0,118800.00000000001,97199.99999999999,47.0,3.0,1.0,No,Venta media
+15,2026-02-21,Colombia,Medellín,Tienda física,Deportes,Transferencia,Recurrente,2,120000,0.2,192000.0,124800.0,67200.0,28.0,3.0,4.0,No,Venta media
+16,2026-02-14,México,Guadalajara,WhatsApp,Deportes,Efectivo,Nuevo,1,250000,0.1,225000.0,168750.0,56250.0,28.0,3.0,6.0,No,Venta media
+17,2026-03-25,Perú,Lima,Web,Hogar,Transferencia,Recurrente,2,55000,0.05,104500.0,78375.0,26125.0,52.0,5.0,1.0,No,Venta pequeña
+18,2026-01-11,Perú,Lima,WhatsApp,Tecnología,Transferencia,Recurrente,2,80000,0.1,144000.0,64800.0,79200.0,39.0,3.0,10.0,No,Venta pequeña
+19,2026-03-12,México,Guadalajara,Web,Hogar,Transferencia,Recurrente,2,120000,0.2,192000.0,144000.0,48000.0,35.0,3.0,35.0,No,Venta media
+20,2026-01-31,México,CDMX,Web,Tecnología,Transferencia,Recurrente,2,250000,0.05,475000.0,213750.0,261250.0,28.0,3.0,5.0,No,Venta media
+21,2026-03-09,Perú,Cusco,WhatsApp,Deportes,Transferencia,Nuevo,3,80000,0.2,192000.0,144000.0,48000.0,25.0,5.0,4.0,No,Venta media
+22,2026-03-09,Colombia,Barranquilla,Web,Hogar,Transferencia,Nuevo,2,80000,0.2,128000.0,57600.0,70400.0,19.0,5.0,6.0,No,Venta pequeña
+23,2026-02-11,Chile,Santiago,Web,Deportes,Transferencia,Nuevo,3,25000,0.0,75000.0,56250.0,18750.0,19.0,5.0,2.0,No,Venta pequeña
+24,2026-02-10,México,Monterrey,WhatsApp,Belleza,Transferencia,Recurrente,5,40000,0.15,170000.0,93500.00000000001,76499.99999999999,22.0,4.0,7.0,No,Venta media
+25,2026-01-29,Colombia,Bogotá,Web,Belleza,Transferencia,Recurrente,1,250000,0.05,237500.0,154375.0,83125.0,31.0,2.0,3.0,No,Venta media
+26,2026-01-12,Colombia,Barranquilla,App,Belleza,Transferencia,Nuevo,4,120000,0.15,408000.0,265200.0,142800.0,28.0,4.0,6.0,No,Venta media
+27,2026-01-14,Perú,Lima,WhatsApp,Ropa,Billetera digital,Nuevo,4,55000,0.2,176000.0,114400.0,61600.0,22.0,5.0,2.0,No,Venta media
+28,2026-03-15,Colombia,Medellín,Web,Ropa,Transferencia,Recurrente,2,250000,0.15,425000.0,276250.0,148750.0,25.0,4.0,4.0,No,Venta media
+29,2026-03-19,Chile,Concepción,Tienda física,Tecnología,Tarjeta,Nuevo,4,25000,0.1,90000.0,40500.0,49500.0,22.0,3.0,5.0,Sí,Venta pequeña
+30,2026-01-31,México,CDMX,Web,Ropa,Billetera digital,Nuevo,3,120000,0.15,306000.0,198900.0,107100.0,25.0,5.0,1.0,No,Venta media
+31,2026-02-04,Colombia,Bogotá,Web,Ropa,Transferencia,Nuevo,3,180000,0.1,486000.0,267300.0,218700.0,42.0,3.0,4.0,No,Venta media
+32,2026-03-26,Perú,Lima,Web,Ropa,Tarjeta,Nuevo,5,120000,0.05,570000.0,427500.0,142500.0,42.0,2.0,2.0,No,Venta grande
+33,2026-01-10,Chile,La Serena,Tienda física,Deportes,Transferencia,Nuevo,3,40000,0.05,114000.0,85500.0,28500.0,19.0,3.0,3.0,Sí,Venta pequeña
+34,2026-01-24,Perú,Trujillo,Web,Hogar,Tarjeta,Recurrente,5,180000,0.1,810000.0,445500.00000000006,364499.99999999994,31.0,3.0,1.0,No,Venta grande
+35,2026-01-24,México,Monterrey,Web,Belleza,Efectivo,Recurrente,3,120000,0.1,324000.0,178200.0,145800.0,31.0,1.0,4.0,No,Venta media
+36,2026-01-12,Colombia,Medellín,Web,Belleza,Billetera digital,Recurrente,5,180000,0.05,855000.0,470250.00000000006,384749.99999999994,19.0,5.0,2.0,No,Venta grande
+37,2026-02-19,México,Puebla,Web,Deportes,Billetera digital,Nuevo,3,55000,0.05,156750.0,70537.5,86212.5,47.0,5.0,3.0,No,Venta media
+38,2026-03-29,Perú,Trujillo,Tienda física,Hogar,Transferencia,Nuevo,5,180000,0.15,765000.0,420750.00000000006,344249.99999999994,47.0,5.0,1.0,No,Venta grande
+39,2026-03-04,México,CDMX,Web,Tecnología,Transferencia,Recurrente,1,80000,0.15,68000.0,30600.0,37400.0,19.0,3.0,4.0,No,Venta pequeña
+40,2026-03-25,Perú,Lima,Web,Belleza,Tarjeta,Nuevo,4,55000,0.0,220000.0,143000.0,77000.0,31.0,2.0,4.0,No,Venta media
+41,2026-03-25,Chile,La Serena,Web,Belleza,Billetera digital,Recurrente,1,120000,0.05,114000.0,51300.0,62700.0,25.0,5.0,6.0,No,Venta pequeña
+42,2026-02-06,Perú,Arequipa,WhatsApp,Tecnología,Tarjeta,Recurrente,3,180000,0.0,540000.0,297000.0,243000.0,42.0,3.0,5.0,No,Venta grande
+43,2026-02-04,Chile,La Serena,Web,Belleza,Transferencia,Recurrente,1,80000,0.0,80000.0,52000.0,28000.0,22.0,4.0,4.0,No,Venta pequeña
+44,2026-01-15,Chile,Valparaíso,Web,Hogar,Tarjeta,Nuevo,5,55000,0.1,247500.0,136125.0,111375.0,58.0,5.0,4.0,No,Venta media
+45,2026-02-14,Perú,Arequipa,WhatsApp,Belleza,Billetera digital,Nuevo,2,25000,0.15,42500.0,31875.0,10625.0,31.0,4.0,3.0,No,Venta pequeña
+46,2026-02-02,Chile,Concepción,Tienda física,Tecnología,Tarjeta,Recurrente,3,250000,0.15,637500.0,286875.0,350625.0,31.0,2.0,1.0,No,Venta grande
+47,2026-03-23,Perú,Lima,WhatsApp,Belleza,Tarjeta,Recurrente,4,250000,0.1,900000.0,405000.0,495000.0,22.0,3.0,1.0,No,Venta grande
+48,2026-01-27,México,Guadalajara,WhatsApp,Ropa,Efectivo,Nuevo,3,250000,0.15,637500.0,286875.0,350625.0,39.0,3.0,4.0,No,Venta grande
+49,2026-02-06,Colombia,Cali,WhatsApp,Belleza,Transferencia,Recurrente,4,25000,0.2,80000.0,44000.0,36000.0,42.0,2.0,7.0,No,Venta pequeña
+50,2026-01-27,Perú,Cusco,WhatsApp,Ropa,Transferencia,Recurrente,4,120000,0.15,408000.0,183600.0,224400.0,58.0,2.0,3.0,Sí,Venta media
+51,2026-01-12,Chile,Valparaíso,Tienda física,Belleza,Billetera digital,Recurrente,2,120000,0.05,228000.0,125400.00000000001,102599.99999999999,82.0,1.0,6.0,No,Venta media
+52,2026-03-05,Perú,Arequipa,Tienda física,Ropa,Transferencia,Nuevo,4,80000,0.15,272000.0,149600.0,122400.0,31.0,4.0,6.0,Sí,Venta media
+53,2026-01-05,Perú,Cusco,App,Hogar,Tarjeta,Recurrente,2,80000,0.15,136000.0,102000.0,34000.0,31.0,4.0,1.0,No,Venta pequeña
+54,2026-01-20,Chile,La Serena,WhatsApp,Deportes,Tarjeta,Nuevo,4,250000,0.2,800000.0,600000.0,200000.0,28.0,4.0,2.0,No,Venta grande
+55,2026-03-22,México,CDMX,Web,Belleza,Tarjeta,Nuevo,2,40000,0.2,64000.0,28800.0,35200.0,31.0,3.0,5.0,No,Venta pequeña
+56,2026-03-10,Perú,Trujillo,Web,Tecnología,Tarjeta,Recurrente,5,120000,0.05,570000.0,427500.0,142500.0,28.0,3.0,1.0,Sí,Venta grande
+57,2026-01-03,Perú,Trujillo,Tienda física,Ropa,Transferencia,Recurrente,5,40000,0.2,160000.0,88000.0,72000.0,39.0,1.0,5.0,Sí,Venta media
+58,2026-02-16,México,Puebla,Web,Belleza,Efectivo,Nuevo,4,55000,0.05,209000.0,156750.0,52250.0,31.0,1.0,6.0,No,Venta media
+59,2026-02-07,Chile,Valparaíso,Tienda física,Tecnología,Tarjeta,Nuevo,4,40000,0.1,144000.0,79200.0,64800.0,42.0,2.0,4.0,No,Venta pequeña
+60,2026-03-18,Colombia,Barranquilla,App,Deportes,Transferencia,Recurrente,4,180000,0.0,720000.0,396000.00000000006,323999.99999999994,19.0,4.0,4.0,Sí,Venta grande
+61,2026-01-24,México,Puebla,Web,Tecnología,Transferencia,Recurrente,4,180000,0.1,648000.0,291600.0,356400.0,25.0,1.0,6.0,No,Venta grande
+62,2026-02-23,Chile,Santiago,WhatsApp,Ropa,Efectivo,Recurrente,4,40000,0.0,160000.0,72000.0,88000.0,31.0,1.0,2.0,No,Venta media
+63,2026-02-11,Colombia,Bogotá,Tienda física,Belleza,Efectivo,Recurrente,1,25000,0.15,21250.0,11687.500000000002,9562.499999999998,47.0,3.0,10.0,No,Venta pequeña
+64,2026-01-09,Perú,Trujillo,WhatsApp,Tecnología,Transferencia,Recurrente,1,80000,0.0,80000.0,60000.0,20000.0,19.0,1.0,5.0,No,Venta pequeña
+65,2026-01-30,Perú,Cusco,Tienda física,Ropa,Tarjeta,Recurrente,3,55000,0.1,148500.0,66825.0,81675.0,52.0,3.0,2.0,Sí,Venta pequeña
+66,2026-03-19,Colombia,Barranquilla,WhatsApp,Belleza,Efectivo,Recurrente,4,40000,0.15,136000.0,74800.0,61200.0,31.0,1.0,5.0,No,Venta pequeña
+67,2026-03-03,México,Monterrey,WhatsApp,Ropa,Efectivo,Nuevo,5,40000,0.15,170000.0,93500.00000000001,76499.99999999999,39.0,2.0,2.0,Sí,Venta media
+68,2026-01-30,Perú,Arequipa,Web,Belleza,Tarjeta,Recurrente,5,25000,0.05,118750.0,53437.5,65312.5,42.0,4.0,10.0,No,Venta pequeña
+69,2026-02-26,México,Puebla,App,Belleza,Tarjeta,Recurrente,3,55000,0.2,132000.0,85800.0,46200.0,31.0,3.0,5.0,No,Venta pequeña
+70,2026-03-09,México,Guadalajara,App,Hogar,Transferencia,Recurrente,5,40000,0.1,180000.0,81000.0,99000.0,31.0,4.0,4.0,No,Venta media
+71,2026-01-16,México,CDMX,Web,Belleza,Tarjeta,Nuevo,4,250000,0.05,950000.0,712500.0,237500.0,19.0,3.0,5.0,No,Venta grande
+72,2026-03-23,Colombia,Bogotá,App,Deportes,Tarjeta,Recurrente,5,250000,0.05,1187500.0,890625.0,296875.0,31.0,5.0,1.0,Sí,Venta grande
+73,2026-02-11,Perú,Arequipa,Tienda física,Tecnología,Efectivo,Nuevo,1,40000,0.1,36000.0,16200.0,19800.0,31.0,5.0,4.0,Sí,Venta pequeña
+74,2026-03-26,Chile,Concepción,Tienda física,Hogar,Tarjeta,Nuevo,1,250000,0.15,212500.0,159375.0,53125.0,39.0,1.0,2.0,No,Venta media
+75,2026-02-23,México,CDMX,WhatsApp,Hogar,Efectivo,Recurrente,3,180000,0.1,486000.0,364500.0,121500.0,31.0,1.0,6.0,No,Venta media
+76,2026-02-16,Colombia,Medellín,WhatsApp,Hogar,Billetera digital,Nuevo,1,80000,0.05,76000.0,57000.0,19000.0,22.0,1.0,7.0,No,Venta pequeña
+77,2026-02-14,Chile,Valparaíso,Web,Hogar,Tarjeta,Nuevo,4,25000,0.2,80000.0,52000.0,28000.0,47.0,3.0,3.0,No,Venta pequeña
+78,2026-01-07,Perú,Arequipa,App,Deportes,Tarjeta,Nuevo,4,80000,0.05,304000.0,197600.0,106400.0,19.0,2.0,10.0,No,Venta media
+79,2026-02-21,Chile,Santiago,App,Deportes,Transferencia,Recurrente,5,250000,0.05,1187500.0,890625.0,296875.0,52.0,2.0,4.0,Sí,Venta grande
+80,2026-03-18,México,Puebla,Web,Ropa,Transferencia,Nuevo,2,25000,0.2,40000.0,18000.0,22000.0,35.0,3.0,2.0,No,Venta pequeña
+81,2026-01-01,Chile,Concepción,Tienda física,Belleza,Transferencia,Recurrente,4,180000,0.1,648000.0,486000.0,162000.0,42.0,5.0,3.0,Sí,Venta grande
+82,2026-01-12,Chile,La Serena,WhatsApp,Hogar,Billetera digital,Nuevo,4,80000,0.0,320000.0,144000.0,176000.0,35.0,2.0,7.0,No,Venta media
+83,2026-03-20,Chile,Santiago,App,Tecnología,Tarjeta,Recurrente,5,25000,0.0,125000.0,93750.0,31250.0,25.0,3.0,1.0,Sí,Venta pequeña
+84,2026-01-19,Colombia,Bogotá,WhatsApp,Hogar,Efectivo,Nuevo,2,25000,0.1,45000.0,29250.0,15750.0,35.0,2.0,5.0,No,Venta pequeña
+85,2026-02-18,Perú,Trujillo,Tienda física,Hogar,Transferencia,Recurrente,3,25000,0.05,71250.0,39187.5,32062.5,25.0,4.0,5.0,No,Venta pequeña
+86,2026-02-03,México,Monterrey,Web,Tecnología,Efectivo,Recurrente,5,120000,0.2,480000.0,216000.0,264000.0,47.0,3.0,7.0,No,Venta media
+87,2026-03-08,Chile,Concepción,App,Deportes,Efectivo,Recurrente,1,80000,0.05,76000.0,41800.0,34200.0,31.0,5.0,1.0,No,Venta pequeña
+88,2026-01-17,Perú,Cusco,Tienda física,Deportes,Tarjeta,Nuevo,2,40000,0.1,72000.0,54000.0,18000.0,47.0,4.0,6.0,Sí,Venta pequeña
+89,2026-01-29,Chile,Valparaíso,Web,Deportes,Tarjeta,Nuevo,1,120000,0.1,108000.0,70200.0,37800.0,47.0,1.0,6.0,No,Venta pequeña
+90,2026-02-27,Chile,Concepción,App,Deportes,Transferencia,Recurrente,5,250000,0.15,1062500.0,584375.0,478125.0,19.0,2.0,4.0,No,Venta grande
+91,2026-03-08,Colombia,Cali,Tienda física,Hogar,Billetera digital,Recurrente,1,25000,0.2,1900000.0,13000.0,850000.0,58.0,5.0,10.0,No,Venta grande
+92,2026-01-02,Chile,Valparaíso,Web,Hogar,Tarjeta,Nuevo,5,25000,0.15,106250.0,58437.50000000001,47812.49999999999,25.0,2.0,1.0,Sí,Venta pequeña
+93,2026-01-01,México,Guadalajara,App,Belleza,Billetera digital,Nuevo,5,55000,0.0,275000.0,178750.0,96250.0,19.0,3.0,10.0,No,Venta media
+94,2026-03-30,Chile,La Serena,Web,Belleza,Billetera digital,Nuevo,2,25000,0.1,45000.0,24750.000000000004,20249.999999999996,19.0,3.0,2.0,No,Venta pequeña
+95,2026-01-21,Perú,Lima,WhatsApp,Ropa,Efectivo,Recurrente,2,25000,0.2,40000.0,18000.0,22000.0,31.0,2.0,4.0,No,Venta pequeña
+96,2026-02-09,Perú,Arequipa,Tienda física,Belleza,Transferencia,Recurrente,5,80000,0.15,340000.0,153000.0,187000.0,39.0,1.0,4.0,No,Venta media
+97,2026-03-31,México,Puebla,Web,Deportes,Transferencia,Nuevo,1,25000,0.0,25000.0,11250.0,13750.0,25.0,5.0,6.0,No,Venta pequeña
+98,2026-01-14,Colombia,Cali,App,Tecnología,Tarjeta,Nuevo,1,25000,0.2,20000.0,13000.0,7000.0,47.0,2.0,2.0,No,Venta pequeña
+99,2026-02-07,México,Guadalajara,Web,Hogar,Tarjeta,Nuevo,1,250000,0.1,225000.0,168750.0,56250.0,25.0,1.0,2.0,No,Venta media
+100,2026-02-06,Perú,Cusco,Tienda física,Belleza,Tarjeta,Recurrente,3,55000,0.0,165000.0,107250.0,57750.0,52.0,3.0,4.0,No,Venta media
+101,2026-02-25,Colombia,Barranquilla,WhatsApp,Tecnología,Tarjeta,Recurrente,4,180000,0.0,720000.0,396000.00000000006,323999.99999999994,22.0,3.0,5.0,No,Venta grande
+102,2026-02-03,Colombia,Bogotá,Web,Ropa,Tarjeta,Recurrente,4,25000,0.15,85000.0,46750.00000000001,38249.99999999999,52.0,4.0,6.0,No,Venta pequeña
+103,2026-02-15,México,Monterrey,App,Hogar,Billetera digital,Nuevo,1,180000,0.0,180000.0,135000.0,45000.0,47.0,3.0,2.0,No,Venta media
+104,2026-02-18,Colombia,Barranquilla,Web,Belleza,Billetera digital,Nuevo,3,40000,0.1,108000.0,70200.0,37800.0,47.0,4.0,4.0,No,Venta pequeña
+105,2026-03-16,México,Puebla,Web,Hogar,Efectivo,Recurrente,5,40000,0.15,170000.0,110500.0,59500.0,42.0,2.0,10.0,No,Venta media
+106,2026-03-19,México,Guadalajara,WhatsApp,Ropa,Transferencia,Nuevo,3,55000,0.2,132000.0,72600.0,59400.0,25.0,3.0,4.0,No,Venta pequeña
+107,2026-02-08,Perú,Arequipa,Tienda física,Hogar,Transferencia,Recurrente,1,40000,0.0,40000.0,22000.0,18000.0,25.0,4.0,3.0,No,Venta pequeña
+108,2026-03-06,Chile,Concepción,Web,Hogar,Tarjeta,Recurrente,2,80000,0.15,136000.0,61200.0,74800.0,39.0,1.0,7.0,No,Venta pequeña
+109,2026-03-27,Perú,Trujillo,App,Tecnología,Efectivo,Recurrente,1,180000,0.05,171000.0,128250.0,42750.0,52.0,3.0,7.0,No,Venta media
+110,2026-02-24,México,Guadalajara,WhatsApp,Tecnología,Billetera digital,Recurrente,3,180000,0.0,540000.0,405000.0,135000.0,39.0,2.0,3.0,No,Venta grande
+111,2026-01-21,Chile,La Serena,WhatsApp,Tecnología,Transferencia,Recurrente,1,80000,0.15,68000.0,30600.0,37400.0,31.0,1.0,4.0,No,Venta pequeña
+112,2026-03-29,México,Monterrey,WhatsApp,Tecnología,Transferencia,Recurrente,5,25000,0.1,112500.0,73125.0,39375.0,31.0,4.0,10.0,No,Venta pequeña
+113,2026-02-23,México,Puebla,Web,Deportes,Efectivo,Nuevo,3,55000,0.15,140250.0,105187.5,35062.5,19.0,1.0,2.0,No,Venta pequeña
+114,2026-03-23,Perú,Cusco,App,Tecnología,Efectivo,Recurrente,5,40000,0.15,170000.0,127500.0,42500.0,25.0,2.0,3.0,Sí,Venta media
+115,2026-02-18,México,Puebla,App,Deportes,Transferencia,Recurrente,4,80000,0.1,288000.0,158400.0,129600.0,35.0,4.0,4.0,No,Venta media
+116,2026-03-23,Perú,Trujillo,WhatsApp,Hogar,Tarjeta,Recurrente,3,40000,0.1,108000.0,70200.0,37800.0,42.0,4.0,7.0,No,Venta pequeña
+117,2026-01-02,Colombia,Medellín,Tienda física,Hogar,Billetera digital,Nuevo,1,250000,0.2,200000.0,130000.0,70000.0,47.0,2.0,6.0,No,Venta media
+118,2026-02-21,Colombia,Bogotá,Tienda física,Tecnología,Efectivo,Nuevo,5,40000,0.05,190000.0,104500.00000000001,85499.99999999999,35.0,4.0,3.0,No,Venta media
+119,2026-02-03,México,CDMX,Tienda física,Deportes,Transferencia,Recurrente,2,120000,0.0,240000.0,180000.0,60000.0,22.0,3.0,4.0,Sí,Venta media
+120,2026-03-18,Chile,Valparaíso,WhatsApp,Hogar,Billetera digital,Nuevo,4,80000,0.05,304000.0,228000.0,76000.0,42.0,2.0,3.0,No,Venta media
